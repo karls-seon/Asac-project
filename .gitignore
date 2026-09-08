@@ -4,8 +4,10 @@
 api_key.txt
 # .gitkeep 파일 예외
 02_Data/**
-!02_Data/**/backers_correlation.jpg
-!02_Data/**/target_distribution.jpg
+03_Docs/**
+
+!03_Docs/**/backers_correlation.jpg
+!03_Docs/**/target_distribution.jpg
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
